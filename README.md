@@ -1,3 +1,5 @@
 # netent-counter
 In depth stats of online slots under development
-d
+Offline work
+Beta testing
+
